@@ -159,5 +159,12 @@
 		"translations" : [
 			"config/translationPavilion/chinese.json"
 		]
+	},
+		"russian" : {
+		"name" : "Павильон",
+		"description" : "Модифицированная и сбалансированная версия Bastion Town, портированная на VCMI edeksumo при помощи сообщества моддеров Acid Cave, первоначально задуманная и созданная New Town Group.",
+		"translations" : [
+			"config/translationPavilion/russian.json"
+		]
 	}
 }
